@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://files.catbox.moe/7irwqn.jpeg",
-  "repository": "https://github.com/Fred1e/LUCKY_MD",
+  "repository": "https://github.com/barkshad/LUCKY_MD.git",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -121,7 +121,7 @@
     },
     "WARN_COUNT": {
       "description": "Set the warning limit for warning commands",
-      "value": "5",
+      "value": "4",
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
